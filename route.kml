@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Placemark>
+  <name>Stop 15</name>
+  <LookAt>
+    <longitude>-76.80636200045039</longitude>
+    <latitude>18.03015563011141</latitude>
+    <range>223.571304638206</range>
+    <tilt>2.593232250170351e-009</tilt>
+    <heading>-0.0002895685129259088</heading>
+  </LookAt>
+  <styleUrl>root://styles#default</styleUrl>
+  <Point>
+    <coordinates>-76.80601414000586,18.02996839851189,0</coordinates>
+  </Point>
+</Placemark>
+</kml>
